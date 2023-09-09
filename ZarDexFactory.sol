@@ -1,12 +1,10 @@
+// SPDX-License-Identifier: GPL-3.0
 pragma solidity =0.5.16;
 
 import './IUniswapV2Factory.sol';
 import './UniswapV2Pair.sol';
 
-contract ZarDexFactory is IUniswapV2Factory {
-    // disable the following line when deploying to the mainnet
-    bytes32 public constant INIT_CODE_PAIR_HASH = keccak256(abi.encodePacked(type(UniswapV2Pair).creationCode));  
-    
+contract ZarDexFactory is IUniswapV2Factory {    
     address public feeTo;
     address public feeToSetter;
 
