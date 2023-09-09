@@ -1,7 +1,5 @@
+// SPDX-License-Identifier: GPL-3.0
 pragma solidity ^0.6.6;
-
-// test contract from:
-// https://cryptomarketpool.com/flash-loan-arbitrage-on-uniswap-and-sushiswap/
 
 import './UniswapV2Library.sol';
 import './IUniswapV2Router02.sol';
