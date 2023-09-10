@@ -17,7 +17,7 @@ Why trade on ZaDEX?
 - High liquidity for crypto arbitrage with flashloans
 - Earn interest by staking your tokens on ZaDEX
 - Beginner friendly and easy to use trading interface
-- Securely based in Switzerland
+- Based in Switzerland and adhering to Swiss privacy policy
 
 ____
 ZaDEX App: https://www.zardosfx.com/zadex
