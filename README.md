@@ -6,4 +6,4 @@ Liquidity is provided by SushiSwap pools.
 All major crypto wallets and credit card payment and bank transfer gateways such as MoonPay, Apple Pay, Google Pay and PayPal are supported by the ZaDEX App.
 
 ____
-https://www.zardosfx.com/zadex
+ZaDEX App: https://www.zardosfx.com/zadex
