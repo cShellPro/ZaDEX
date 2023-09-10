@@ -7,7 +7,7 @@ Over 300+ crypto currencies are available to trade and liquidity and token staki
 All major crypto wallets and credit card payment and bank transfer gateways such as MoonPay, Apple Pay, Google Pay, BitStamp, PayPal and BitPay are supported by the ZaDEX App. This Exchange does not charge additional deposit or withdrawal fees.
 
 Why trade on ZaDEX?
-- non-custodial and decentralized
+- non-custodial and decentralized Exchange
 - low, flat swap fee of 0.08%
 - all major blockchains are supported
 - No KYC or registration required
