@@ -15,6 +15,7 @@ Why trade on ZaDEX?
 - Flexible payment systems available
 - No additional deposit or withdrawal charges
 - High liquidity for crypto arbitrage using flashloans
+- Beginner friendly and easy to use trading interface
 - Securely based in Switzerland
 
 ____
