@@ -9,7 +9,7 @@ All major crypto wallets and credit card payment and bank transfer gateways such
 Why trade on ZaDEX?
 - non-custodial and decentralized
 - low swap fees of 0.08%
-- all major blackchains are supported
+- all major blockchains are supported
 - No KYC required
 - Large number (300+) of tokens to trade
 - Flexible payment systems available
