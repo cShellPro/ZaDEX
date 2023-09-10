@@ -14,7 +14,7 @@ Why trade on ZaDEX?
 - Large number (300+) of tokens to trade
 - Flexible payment systems available
 - No additional deposit or withdrawal charges
-- High liquidity for crypto arbitrage using flashloans
+- High liquidity for crypto arbitrage with flashloans
 - Beginner friendly and easy to use trading interface
 - Securely based in Switzerland
 
