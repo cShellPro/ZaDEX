@@ -1,4 +1,4 @@
-# ZarDEX
+# ZaDEX
 ZaDEX is a decentralized crypto exchange based in Switzerland, with a low swap fee of 0.09% on Ethereum, Polygon, Arbitrum, Optimism, Avalanche, Fantom and Metis Networks. No registration or minimum crypto wallet balance is required to start trading and U.S. customers are welcome.
 
 Liquidity is provided by SushiSwap pools.
