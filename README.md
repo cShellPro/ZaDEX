@@ -15,7 +15,7 @@ Why trade on ZaDEX?
 - Flexible payment systems available
 - No additional deposit or withdrawal charges
 - High liquidity for crypto arbitrage with flashloans
-- Earn interest by staking your tokens on ZaDEX
+- Earn interest by staking your tokens on the ZaDEX lending pool
 - Beginner friendly and easy to use trading interface
 - Based in Switzerland and adhering to Swiss privacy policies
 
