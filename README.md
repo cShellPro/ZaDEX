@@ -1,5 +1,5 @@
 # ZaDEX (ZDX)
-ZaDEX is a noncustodial Decentralized Crypto Exchange (DEX) based in Switzerland, with a low swap fee of 0.08% on Ethereum, Polygon, Arbitrum, Optimism, Avalanche, Fantom, Solana and Metis Networks. No registration or minimum crypto wallet balance is required for trading and U.S. customers are welcome.
+ZaDEX is a noncustodial, Decentralized Crypto Exchange (DEX) based in Switzerland, with a low swap fee of 0.08% on Ethereum, Polygon, Arbitrum, Optimism, Avalanche, Fantom, Solana and Metis Networks. No registration or minimum crypto wallet balance is required for trading and U.S. customers are welcome.
 
 Liquidity and token staking is provided by SushiSwap pools.
 
