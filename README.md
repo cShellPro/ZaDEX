@@ -10,7 +10,7 @@ Why trade on ZaDEX?
 - non-custodial and decentralized Exchange
 - low, flat swap fee of 0.08%
 - all major blockchains are supported
-- No KYC or registration required
+- No registration or KYC is required
 - Large number (300+) of tokens to trade
 - Flexible payment systems available
 - No additional deposit or withdrawal charges
