@@ -7,3 +7,5 @@ All major crypto wallets and credit card payment and bank transfer gateways such
 
 ____
 ZaDEX App: https://www.zardosfx.com/zadex
+
+(License: GNU GPL-3.0, General Public license)
