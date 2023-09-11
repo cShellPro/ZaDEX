@@ -25,7 +25,14 @@ import './interfaces/IERC20.sol';
 // uniPair   = 0xB4e16d0168e52d35CaCD2c6185b44281Ec28C9Dc
 // sushiPair = 0x397FF1542f962076d0BFE58eA045FfA2d347ACa0
 
+// replace addresses to arbitrage on different routers
+// uniSwapRouter   = ZADEX_ROUTER_ADDRESS;
+// sushiSwapRouter = SHELLBASE_ROUTER_ADDRESS;
 
+// zadexURL     = "https://zadex.app";
+// shellbaseURL = "https://shellbase.app";
+
+// begin of Flashloan smart contract
 contract Flashloan {
   //uniswap factory address
   address public uniSwapRouter;
