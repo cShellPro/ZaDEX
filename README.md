@@ -4,7 +4,7 @@ ZaDEX is a non-custodial, Decentralized Crypto Exchange (DEX) based in Switzerla
 
 Over 300+ crypto currencies are available to trade and liquidity and token staking is provided by SushiSwap pools, enabling access to large funds for flashloan arbitrage without any collateral. 
 
-All major crypto wallets and credit card payment and bank transfer gateways such as MoonPay, Apple Pay, Google Pay, BitStamp, PayPal, Wyre, Transak and BitPay are supported by the ZaDEX App. This Exchange does not charge additional deposit or withdrawal fees. ZaDEX has no withdrawal limits and 24/7 support is provided via email and live chat. 
+Major crypto wallets such as Uniswap Wallet, MetaMask, WalletConnect and Coinbase Wallet are available and credit card payment and bank transfer gateways such as MoonPay, Apple Pay, Google Pay, BitStamp, PayPal, Wyre, Transak and BitPay are supported by the ZaDEX App. This Exchange does not charge additional deposit or withdrawal fees. ZaDEX has no daily withdrawal limits and 24/7 support is provided via email and live chat. 
 
 Why trade on ZaDEX?
 - non-custodial and decentralized Exchange
