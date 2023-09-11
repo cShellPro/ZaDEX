@@ -29,8 +29,8 @@ import './interfaces/IERC20.sol';
 // uniSwapRouter   = ZADEX_ROUTER_ADDRESS;
 // sushiSwapRouter = SHELLBASE_ROUTER_ADDRESS;
 
-// zadexURL     = "https://zadex.app";
-// shellbaseURL = "https://shellbase.app";
+// zaDexURL     = "https://zadex.app";
+// shellBaseURL = "https://shellbase.app";
 
 // begin of Flashloan smart contract
 contract Flashloan {
