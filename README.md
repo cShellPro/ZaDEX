@@ -1,5 +1,5 @@
 # ZardosFX (ZAX)
-Effortlessly swap, buy and sell crypto and fiat currencies.
+Effortlessly swap, buy, sell and trade crypto and fiat currency pairs.
 ZardosFX is a non-custodial, Decentralized Crypto Exchange (DEX) based in Switzerland, with low transaction fees on Ethereum, Arbitrum, Optimism, Polygon, Base, BNB SmartChain, Avalanche and Celo Networks. No registration or minimum crypto wallet balance is required.
 
 Over 300+ crypto currencies are available to trade and liquidity and token staking is provided by UniSwap pools, enabling access to large funds for flashloan arbitrage or loan liquidations without the need of any collateral. Use our ready made and customizable Flashloan.sol solidity Smart Contract to get started.
