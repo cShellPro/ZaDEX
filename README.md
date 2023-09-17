@@ -16,9 +16,9 @@ Why trade on ZardosFX?
 - No additional deposit or withdrawal charges
 - High liquidity for crypto arbitrage with flashloans
 - Earn interest by staking your tokens on the ZardosFX lending pool
-- Trade Crypto and Forex CFDs with the auomated ZardosFX Social Copy Trading Network
-- Beginner friendly and easy to use trading interface
-- Based in Switzerland and adhering to Swiss privacy policies
+- Trade Crypto and Forex CFDs with the automated ZardosFX Social Copy Trading Network
+- Beginner friendly and easy to use frontend
+- Based in Switzerland and adhering to strict Swiss privacy policies
 
 What's more, with the ZardosFX Trading Network, you can unlock the full potential of your investments with our cutting-edge social copy trading platform and say 'Goodbye' to the traditional method of relying solely on human traders and 'Hello' to a more sophisticated, reliable, and profitable way of automated online trading.
 
