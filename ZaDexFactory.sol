@@ -4,7 +4,7 @@ pragma solidity =0.5.16;
 import './IUniswapV2Factory.sol';
 import './UniswapV2Pair.sol';
 
-contract ZaDexFactory is IUniswapV2Factory {    
+contract ZardosfxFactory is IUniswapV2Factory {    
     address public feeTo;
     address public feeToSetter;
 
