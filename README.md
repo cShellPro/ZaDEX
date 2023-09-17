@@ -8,7 +8,7 @@ Major crypto wallets such as Uniswap Wallet, MetaMask, WalletConnect and Coinbas
 
 Why trade on ZardosFX?
 - non-custodial and decentralized Exchange
-- all major blockchains are supported
+- all major crypto blockchains are supported
 - No registration required
 - Large number (300+) of tokens
 - Flexible payment systems available
