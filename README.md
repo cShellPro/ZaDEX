@@ -2,7 +2,7 @@
 Effortlessly swap, buy and sell crypto and fiat currencies.
 ZardosFX is a non-custodial, Decentralized Crypto Exchange (DEX) based in Switzerland, with a low transaction fee of 0.08% on Ethereum, Arbitrum, Optimism, Polygon, Base, BNB Chain, Avalanche and Celo Networks. No registration or minimum crypto wallet balance is required.
 
-Over 300+ crypto currencies are available to trade and liquidity and token staking is provided by SushiSwap pools, enabling access to large funds for flashloan arbitrage or loan liquidations without the need of any collateral. 
+Over 300+ crypto currencies are available to trade and liquidity and token staking is provided by UniSwap pools, enabling access to large funds for flashloan arbitrage or loan liquidations without the need of any collateral. Use our ready made and customizable Flashloan.sol solidity Smart Contract to get started.
 
 Major crypto wallets such as Uniswap Wallet, MetaMask, WalletConnect and Coinbase Wallet are available and credit card payment and bank transfer gateways such as MoonPay, Apple Pay, Google Pay, BitStamp, PayPal, Wyre, Transak and BitPay are supported by the ZardosFX App. This Exchange does not charge additional deposit or withdrawal fees. ZardosFX offers 24/7 support via email and live chat. 
 
