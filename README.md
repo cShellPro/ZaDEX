@@ -20,7 +20,7 @@ Why trade on ZardosFX?
 - Beginner friendly and easy to use trading interface
 - Based in Switzerland and adhering to Swiss privacy policies
 
-What's more, with the ZardosFX Trading Network, you can unlock the full potential of your investments with our cutting-edge social copy trading platform and say goodbye to the traditional method of relying solely on human traders and hello to a more sophisticated, reliable, and profitable way of automated online trading.
+What's more, with the ZardosFX Trading Network, you can unlock the full potential of your investments with our cutting-edge social copy trading platform and say 'Goodbye' to the traditional method of relying solely on human traders and 'Hello' to a more sophisticated, reliable, and profitable way of automated online trading.
 
 ____
 ZardosFX App: https://www.zardosfx.com
