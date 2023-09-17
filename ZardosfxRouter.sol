@@ -9,7 +9,7 @@ import './SafeMath.sol';
 import './IERC20.sol';
 import './IWETH.sol';
 
-contract ZaDexRouter is IUniswapV2Router02 {
+contract ZardosfxRouter is IUniswapV2Router02 {
     using SafeMath for uint;
 
     address public immutable override factory;
