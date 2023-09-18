@@ -18,7 +18,7 @@ Why trade on ZardosFX?
 - Trade Crypto and Forex CFDs with the automated ZardosFX Social Copy Trading Network
 - Based in Switzerland and adhering to strict Swiss privacy policies
 
-What's more, with the ZardosFX Trading Network, you can unlock the full potential of your investments with ZardosFX's cutting-edge social copy trading platform and say 'Goodbye' to the traditional method of relying solely on human traders and 'Hello' to a more sophisticated, reliable, and profitable way of automated online trading.
+What's more, with the ZardosFX Trading Network, you can unlock the full potential of your investments with ZardosFX's cutting-edge social copy trading platform and say 'Goodbye' to the traditional method of relying solely on human traders and 'Hello' to a more sophisticated, reliable, and profitable way of automated online trading, powered by Artificial Intelligence (AI).
 
 ____
 ZardosFX App: https://www.zardosfx.com
